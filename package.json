@@ -5,6 +5,15 @@
   "type": "module",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
+  "description": "A customizable modal component built with React.",
+  "keywords": [
+    "react",
+    "modal",
+    "component",
+    "ui",
+    "dialog"
+  ],
+  "author": "Maxime D.",
   "types": "dist/index.d.ts",
   "exports": {
     ".": {
